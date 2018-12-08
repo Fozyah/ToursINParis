@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Tours IN Paris</string>
+    <string name="events">EVENTS</string>
+    <string name="sites">sites</string>
+    <string name="parks">Parks</string>
+    <string name="restaurants">restaurants</string>
+    <string name="event1">French Open Tennis Championship</string>
+    <string name="event2">Circus Festival</string>
+    <string name="event3">Fashion Week</string>
+    <string name="event4">Short Film Festival</string>
+    <string name="event5">French Open Golf Championship</string>
+    <string name="event6">Paris Marathon</string>
+    <string name="addinfo1">In Jan</string>
+    <string name="addinfo2">In Feb</string>
+    <string name="addinfo3">In Mar</string>
+    <string name="addinfo4">In Apr</string>
+    <string name="addinfo5">In Jan</string>
+    <string name="addinfo6">In Apr</string>
+    <string name="restauent1">La Meduse</string>
+    <string name="restauent2">Le Cappiello</string>
+    <string name="restauent3">Epicure</string>
+    <string name="restauent4">ASPIC</string>
+    <string name="restauent5">Joe Burger</string>
+    <string name="restauent6">Invictus</string>
+    <string name="Tel1">Tel:0033611412853</string>
+    <string name="Tel2">Tel:0033611418877</string>
+    <string name="Tel3">Tel:0033611418899</string>
+    <string name="Tel4">Tel:0033611409876</string>
+    <string name="Tel5">Tel:0033611412009</string>
+    <string name="Tel6">Tel:0033611412543</string>
+    <string name="park1">Bois Boulogn</string>
+    <string name="park2">Jardin des</string>
+    <string name="park3">Parc des Buttes Chaumont</string>
+    <string name="park4">Jardin du Luxembourg</string>
+    <string name="park5">Monceau</string>
+    <string name="park6">Tuileries</string>
+    <string name="locationPark1">At west Pris str:Allee dela Reine</string>
+    <string name="locationPark2">Near from Museum national de Hisstoire</string>
+    <string name="locationPark3">At northeast of paris in th 19th arrondissement of paris  </string>
+    <string name="locationPark4">In the 6th arrondissement in paris</string>
+    <string name="locationPark5">In 35 Boulevard  de Courcelles</string>
+    <string name="locationPark6">Located between the Concccorde and Louvre Museum</string>
+    <string name="site1">Arc de Triomphe </string>
+    <string name="site2">Eiffel Tower  </string>
+    <string name="site3">Louvre Museum </string>
+    <string name="site4">Disiny Land </string>
+    <string name="site5">Palais Garnier </string>
+    <string name="site6"> Champs Elysees Street </string>
+    <string name="info1">Open from 10am to 11pm </string>
+    <string name="info2">Open from 9:30am to 11pm </string>
+    <string name="info3">Open from 9am to 6pm </string>
+    <string name="info4">Open from 10am to 8pm </string>
+    <string name="info5">It has 1600 seats and located in the Opera Square </string>
+    <string name="info6">One of the finest and most luxurious tourist and commercial Street </string>
+
+
+
+</resources>
